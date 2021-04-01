@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelLab03", "DelLab03.csproj", "{E510FCF6-69BF-4D1C-937B-70BD90DC200E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E510FCF6-69BF-4D1C-937B-70BD90DC200E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E510FCF6-69BF-4D1C-937B-70BD90DC200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E510FCF6-69BF-4D1C-937B-70BD90DC200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E510FCF6-69BF-4D1C-937B-70BD90DC200E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A6B666-1DA1-4494-BC01-CC33C0C7F908}
+	EndGlobalSection
+EndGlobal
