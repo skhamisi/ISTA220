@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEXR15", "CEXR15.csproj", "{E7153CAC-BAFA-4589-9729-8557F7EF2F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7153CAC-BAFA-4589-9729-8557F7EF2F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7153CAC-BAFA-4589-9729-8557F7EF2F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7153CAC-BAFA-4589-9729-8557F7EF2F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7153CAC-BAFA-4589-9729-8557F7EF2F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3578A45E-F29E-4601-B324-999E81E34689}
+	EndGlobalSection
+EndGlobal
